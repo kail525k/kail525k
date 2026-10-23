@@ -117,7 +117,6 @@
 
 ## 🛠 사용 도구
 
-✏️ 실제로 쓰는 도구로 수정하세요
 `Claude` `GPT` `Supabase` `Gemini`
 
 ---
