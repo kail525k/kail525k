@@ -1,16 +1,29 @@
-## Hi there 👋
+## 안녕하세요, 현업의 문제를 서비스로 직접 해결하는 기획자입니다 👋
 
-<!--
-**kail525k/kail525k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+병원 경영기획 9년차입니다. 현장에서 반복되는 비효율을 발견하면 직접 기획하고 만들어서 운영까지 해왔습니다.
 
-Here are some ideas to get you started:
+### 🏥 현업 개선 (병원 내부 서비스 · 비공개)
+| 서비스 | 해결한 문제 | 결과 |
+|---|---|---|
+| 진료통계 리포트 앱 | 수작업 일일 통계 집계 | 업무 시간 **4시간 → 30분** |
+| 고객의 소리(VOC) 앱 | 종이·구두 민원의 누락과 추적 어려움 | 2026.03 도입, 고객만족 TF에서 활용 중 |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📱 사이드 프로젝트 · 위레브(Welev)
+재직 중에 토스 앱인토스 미니앱을 기획부터 출시, 운영까지 직접 해봤습니다. (출시 6종, 누적 사용자 약 2,500명)
+
+| 서비스 | 분야 | 출시 | 링크 |
+|---|---|---|---|
+| 김사무장 | 프롭테크·법률 | 2026.06 | (링크) |
+| 페이스닥 | AI 헬스케어 | 2026.05 | (링크) |
+| 멍냥관상 | AI 펫 | 2026.06 | (링크) |
+| 카풀메타기 | 모빌리티 | 2026.07 | (링크) |
+| 커리어골든타임 | 커리어 | 2026.08 | (링크) |
+| 다시봄 | 소셜 | 2026.09 | (링크) |
+
+🔗 [welev.co.kr](https://welev.co.kr)
+
+### 🛠 일하는 방식
+- 사용자 문제 정의 → 화면·플로우 기획 → AI 도구로 빠르게 구현 → 출시 후 데이터로 개선
+- 사용 도구: Lovable, Claude, Figma, Supabase
+
+> 서비스 소스코드는 운영 중인 서비스 보호를 위해 비공개로 관리하고 있습니다.
